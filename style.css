@@ -57,10 +57,6 @@ h3 {
   font-size: 1.05em;
 }
 
-.img-circle {
-  border-radius: 50%;
-}
-
 .text-center {
   text-align: center;
 }
@@ -71,6 +67,15 @@ h3 {
   border: 1px solid lightgrey;
   border-radius: 15px;
   box-shadow: 2px 2px 6px #CCCCCC;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.logo-size {
+  width: 25px;
+  height: 25px;
 }
 
 #profil_picture {
